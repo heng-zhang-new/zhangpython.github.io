@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: zhangpython
 subtitle:
 description:
 keywords:
-author: John Doe
+author: Zhang
 language:
 timezone:
 
@@ -78,4 +78,5 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:zhangpython/zhangpython.github.io.git
